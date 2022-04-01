@@ -33,20 +33,32 @@ https://www.typingtest.com/
 Law
 https://pacer.uscourts.gov/
 
-Mozilla Firefox Addons
-https://adblockultimate.net/
-https://github.com/eric-bixby/auto-sort-bookmarks-webext
-https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/
-https://darkreader.org/
-https://disconnect.me/
-https://github.com/mozilla/multi-account-containers#readme
-https://www.ghostery.com/
-https://www.eff.org/https-everywhere
-https://www.lastpass.com/
-https://privacybadger.org/
-https://gitlab.com/smart-referrer
-https://github.com/samueljun/tomato-clock
-https://github.com/gorhill/uBlock#ublock-origin
+
+
+
+
+---
+## <center> Mozilla Firefox Addons
+<ul>
+    <li>[AdBlock Ultimate](https://adblockultimate.net/)</li>
+    <li>[Auto Sort Bookmarks](https://github.com/eric-bixby/auto-sort-bookmarks-webext)</li>
+    <li>[](https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/)</li>
+    <li>[Dark Reader](https://darkreader.org/)</li>
+    <li>[Disconnect](https://disconnect.me/)</li>
+    <li>[Multi Account Containers](https://github.com/mozilla/multi-account-containers#readme)</li>
+    <li>[Ghostery](https://www.ghostery.com/)</li>
+    <li>[HTTPS Everywhere](https://www.eff.org/https-everywhere)</li>
+    <li>[lastpass](https://www.lastpass.com/)</li>
+    <li>[Privacy Badger](https://privacybadger.org/)</li>
+    <li>[Smart Referrer](https://gitlab.com/smart-referrer)</li>
+    <li>[Tomato Clock Timer](https://github.com/samueljun/tomato-clock)</li>
+    <li>[uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)</li>
+    <li>[uMatrix](https://github.com/gorhill/uMatrix)</li>
+    <li>[MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)</li>
+    <li>[TinEye](https://tineye.com/)</li>
+</ul>
+<br>
+---
 https://github.com/gorhill/uMatrix
 https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/
 https://tineye.com/
@@ -190,7 +202,7 @@ https://www.privacytools.io/
 https://deletemydata.io/
 https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/
 https://reports.exodus-privacy.eu.org/en/
-
+<br>
 Decoder
 https://word.tips/anagram-solver/
 https://onlinedisassembler.com/static/home/index.html
@@ -198,7 +210,7 @@ https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 https://www.eliyah.com/lexicon.html
 https://www.gematrinator.com/calculator/index.php
 https://www.masswerk.at/6502/disassembler.html
-
+<br>
 Digital Library
 https://www.christitus.com/
 https://www.earlychristianwritings.com/
@@ -211,7 +223,7 @@ https://www.blackhatworld.com/
 https://archive.org/
 https://libgen.is/
 https://librivox.org/
-
+<br>
 Downloader
 https://archive.ph/
 https://deturl.com/
@@ -220,7 +232,7 @@ https://www.acethinker.com/online-downloader
 https://catch.tube/
 https://yoodownload.com/
 https://youtubemp4.to/en13/
-
+<br>
 Email
 https://10minemail.com/
 https://emkei.cz/
@@ -231,7 +243,7 @@ https://www.emailprivacytester.com/
 https://mail.protonmail.com/
 https://maildrop.cc/
 https://www.thunderbird.net/en-US/
-
+<br>
 File Share
 https://alternativeto.net/
 https://awesomeopensource.com/project/offa/android-foss
@@ -243,7 +255,7 @@ https://images.postmarketos.org/pinephone/
 https://www.majorgeeks.com/
 https://login.teamviewer.com/LogOn
 https://imgur.com/upload
-
+<br>
 Firefox Browser Specific Tools
 about:profiles - Copy and paste into Mozilla Firefox URL bar to see more detailed info about the current Mozilla user profile
 about:config - Copy and paste into Mozilla Firefox URL bar to see more detailed info about the current Mozilla settings
@@ -251,7 +263,7 @@ about:cache - Copy and paste into Mozilla Firefox URL bar to see more detailed i
 https://accounts.firefox.com/
 https://softwarebychuck.com/febe/febe.html
 https://firefox-storage-test.glitch.me/
-
+<br>
 Graphics
 https://inkscape.org/
 https://pixlr.com/
@@ -263,7 +275,7 @@ https://krita.org/en/
 https://www.photopea.com/
 https://www.remove.bg/
 https://vectr.com/design/
-
+<br>
 IP
 https://openwrt.org/
 https://brax.me/ipcheck/
@@ -276,27 +288,27 @@ https://ipleak.net/
 https://clienttest.ssllabs.com:8443/ssltest/viewMyClient.html
 https://www.shodan.io/
 https://www.wifimap.io/
-
+<br>
 IT
 https://10fastfingers.com/
 https://gtmetrix.com/
 https://onlineclock.net/
-
+<br>
 OCR
 https://www.360converter.com/conversion/video2TextConversion
 https://products.aspose.app/ocr/scan-image
 https://www.onlineocr.net/
 https://dictation.io/
-
+<br>
 Reverse Search
 https://www.numlookup.com/
 https://tineye.com/
-
+<br>
 Security
 https://id-ransomware.malwarehunterteam.com/
 https://www.buybitcoinworldwide.com/dongle-auth/
 https://www.virustotal.com/gui/home/upload
-
+<br>
 Social
 https://discord.com/
 https://www.join.me/
@@ -364,214 +376,173 @@ https://beta.shapeshift.com/?utm_source=email&utm_medium=keepkey_drip
 https://www.southxchange.com/
 https://yobit.net/en/
 
-
-
-
-
-
-
-
-
+IRS and SSA
 https://www.irs.gov/filing/e-file-options
 https://www.irs.gov/individuals/get-transcript
 https://www.ssa.gov/
 
+---
+<u>Coding Language Reference</u><br>
+<ul>
+<li>[](https://google.github.io/styleguide/docguide/style.html)</li>
+<li>[](https://www.markdownguide.org/cheat-sheet/)</li>
+<li>[]https://www.markdownguide.org/basic-syntax/()</li>
+</ul>
+<br>
+---
 
 
 
-GitHub Markdown
-https://google.github.io/styleguide/docguide/style.html
-https://www.markdownguide.org/cheat-sheet/
-https://www.markdownguide.org/basic-syntax/
 
-Storage Solutions
+
+
+
+
+
+
+
+
+
+Installed Programs on All Devices
+Make an image copy of each devices contents using capture software.
+Save a CCleaner text document of each list.
+C:\Users\Ninja\Documents\Sean\Programs\Backups\Registry\CCleaner Lists
+
+Desktop Installed
+Take pictures of CCleaner or installed programs application that lists all installed apps
+C:\Users\Ninja\Documents\Sean\Programs\Backups\Registry\CCleaner Lists\CCleaner Desk Lists
+
+Deluge
+Firefox
+Skype
+CCleaner
+7Zip
+Adobe Reader
+Java
+K Lite Codec Pack
+Magic Disc
+OpenOffice
+MagicISO
+
+Laptop Installed
+Take pictures of CCleaner or installed programs application that lists all installed apps
+C:\Users\Ninja\Documents\Sean\Programs\Backups\Registry\CCleaner Lists\CCleaner Lap Lists
+
+Deluge
+Firefox
+Skype
+CCleaner
+7Zip
+Adobe Reader
+Java
+K Lite Codec Pack
+Magic Disc
+OpenOffice
+Jing
+
+Mobile
+Adobe Acrobat
+AT&T Mobile Security
+Authy
+AZ Screen Recorder
+BofA
+Calculator
+Calendar
+Call Protect
+Call Recorder
+Camera
+Clock
+Contacts
+Device Help
+dminder
+Duolingo
+Email
+Firefox
+Galaxy Store
+Gallery
+Gmail
+Google
+Google Play Store
+Hackers Keyboard
+LastPass
+Lux Light Meter
+Maps
+Messages
+My Files
+myAT&T
+Orbot
+PayPal
+Phone
+ProtonMail
+RAR
+Samsung Internet
+Samsung Notes
+Samsung Keyboard
+Settings
+Signal
+Smart Switch
+SmartThings
+Sound Assistant
+Tor Browser
+TryMyUI
+Visual Voicemail
+VLC
+YouTube
+
+
+
+
+
+
+
+
+
+
+
+add the programs folder links to the list
+
+
+
+Add previous youtube videos watched to learn newe procuts
+add sxsw and hackathon resources
+
+
+
+
+
+
+GuitarTabs
+Microsoft MSCE Certification
+Mike Adams A+
+
+
+## <center> Storage Solutions
 Dropbox
 Google Cloud
-
-
+<li>[DropBox]()</li>
+<li>[Google Cloud]()</li>
 ---
 ## <center> Vehicle Resources
 <ul>
     <li>[](https://www.nhtsa.gov/ratings)</li>
     <li>[](https://www.nhtsa.gov/recalls)</li>
-    <li>[](https://www.kbb.com/)</li>
-    <li>[](https://www.obd-codes.com/)</li>
+    <li>[Kelly Blue Book](https://www.kbb.com/)</li>
+    <li>[On Board Diagnostic Codes](https://www.obd-codes.com/)</li>
     <li>[](https://icsw.nhtsa.gov/cars/problems/)</li>
     <br>
 </ul>
 ---
-
 ## <center> Weather
-https://www.accuweather.com/
-
-
+<li>[AccuWeather](https://www.accuweather.com)</li>
+<br>
 ---
 ### <center> Shareware Evolution
-Please feel free to fork our project and any of the other projects that are available from the Universal Bit Project. Diversity encourages evolution, which benefits everyone.
+Please feel free to fork this project. Diversity encourages evolution.
 <br>
 <center>
 :monkey: :arrow_right: :man: :arrow_right: :question:
-
----
-### <center> Contact The Universal Bit Project
-</div>
-<div class="right">
-    <ul>
-        <li>[UniBit](https://unibit.io)</li>
-        <li>GitHub</li>
-        <li>Facebook</li>
-        <li>Twitter</li>
-        <li>Email</li>
-    </ul>
-</div>
-
----
-### <center> Problem
-<center> How does Blockchain enable the world to bypass paper?
 <br>
-<center>
-:question:
-
----
-### <center> Solution
-- [ ] Paperless supply chain running on a Blockchain network.
-- [ ] A visual way of tracking shipments from farm to market.
-- [ ] Verify genuine stands selling peaches.
-
----
-### <center> Considerations
-Question: How does Blockchain enable the world to bypass paper?
-<br>
-<center>
-:question:
-
----
-### <center> Areas Of Consideration
-- [ ] Time :hourglass:
-- [ ] Effort :running:
-- [ ] Functionality :wrench:
-- [ ] Savings :moneybag:
-- [ ] Security :lock:
-
----
-## <center> Factom Hackathon Problem
-Participants will be asked to use the Factom Blockchain to create solutions using data from the Factom Blockchain instead of what would be traditionally stored on paper.
-<center>
-@fa[arrows gp-tip](Press F to go Fullscreen)
-@fa[microphone gp-tip](Press S for Speaker Notes)
-
----
-## <center> Ensuring Authenticity Problem
-- We want to be able to certify and verify on the spot that a consumer is buying genuine Fredericksburg peaches.
-- If a farmer falsely states that their peaches are grown in Fredericksburg, TX, then the Blockchain will provide a permanent record of the peaches place of origin.
-
----
-## <center> Ensuring Authenticity Solution
-Verification of authentic Fredericksburg peaches from an orchard in Fredericksburg, Texas.
-<center>
-@fa[list-alt gp-tip](Factom Powered Verification Layer)
-<center>
-<img src="http://www.texaspeaches.com/images/heading03.jpg" style="background:none; border:none; box-shadow:none;">
-
----
-## <center> Garbage In, Garbage Out Solution
-<center> Proof Of Location
-<center> Platin [https://platin.io/]
-<br>
-<center>
- :earth_americas: :arrow_right: :globe_with_meridians:
-
----
-## <center> Main Goals
-- [Plan of Attack](https://hackernoon.com/building-your-own-bitcoin-satellite-node-6061d3c93e7)
-- [Team Milestones](https://medium.com/@notgrubles/building-your-own-bitcoin-satellite-node-part-2-software-installation-a94a0b85d089)
-- [Documenting](https://hackernoon.com/building-your-own-bitcoin-satellite-node-part-3-dish-alignment-1306b4c21326)
-- Uplink Offline Blockchain Sync Testing
-- Test Transaction's and webApp showing
-- Custom Logo, 3rd Party Review, and Footnotes
-
----?code=sample/go/server.go&lang=golang&title=Golang File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
-
----
-## <center> Market Analysis
-Here are some case examples of how Blockchain based tracking software has previously affected the agriculture industry. The same benefits to utilizing Blockchain technologies for the shipping and receiving of goods, will remain the same across all shipping based industries.
-
----
-## <center> Case Studies
-- [PoC Blockchain And Agriculture Demonstration Code](https://github.com/AravindNico/blockchain_agri_usecase)
-  + [How Blockchain Can Revolutionize Agricultural Supply Chain 1 1](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-1)
-  + [How Blockchain Can Revolutionize Agricultural Supply Chain 2 2](http://radiostud.io/blockchain-can-revolutionize-agricultural-supply-chain-part-2)
-- [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
-
----
-## <center> Test Results
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details can be found in our GitPitch</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Obstacles</li>
-        <li>Team Decisions</li>
-        <li>Changes In Plan</li>
-        <li>Future Upgrades</li>
-        <li>Credits</li>
-    </ul>
-</div>
-
----
-## <center> Questions
-<center>
-**Twitter**
-<br>
-@fa[twitter gp-contact](@TeamPeachesAhead)
-<br>
-**FaceBook**
-<br>
-@fa[github gp-contact](TeamPeachesAhead)
-
----?image=assets/image/gitpitch-audience.jpg&opacity=100
-<center> @title[Get Involved!]
-
 ---
 ## <center> How To Participate
-<center>
-**Discord**
-<br>
-![Discord](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/discord.png?raw=true)
-<br>
-**Twitch**
-<br>
-![Twitch](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/twitch.png?raw=true)
-<br>
-**YouTube**
-<br>
-![YouTube](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/youtube.png?raw=true)
-<br>
-**FaceBook**
-<br>
-![FaceBook](https://github.com/unibitlabs/vigilant-barnacle/blob/master/assets/image/find-us-on-facebook.png?raw=true)
-
----
-<center> ![YouTube](https://www.youtube.com/embed/_c691Myl8sA)
-
----
-## <center> Suggested Resources
-<ul>
-    <li>[]()</li>
-    <li>[]()</li>
-    <li>[]()</li>
-    <li>[]()</li>
-    <li>[]()</li>
-    <br>
-</ul>
-
 ---
 ## <center> Thank You
-<center>
-We would like to thank all the staff from Factom as well as the Capital Factory. Without this forum to showcase our skills then we would not have had the impetus and available resources to complete this task in such a short time frame.
