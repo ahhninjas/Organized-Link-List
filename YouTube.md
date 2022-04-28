@@ -1,18 +1,32 @@
 YouTube Channels
-Computer Science
-Michael Reeves https://www.youtube.com/c/MichaelReeves
-Chris Titus
-Rob Braxman
-Jabrils https://www.youtube.com/c/Jabrils
 
-What About Bunny
-https://www.youtube.com/channel/UCEa46rlHqEP6ClWitFd2QOQ
-
-Religion Related YouTube Channels
-[Tiaan Gildenhuys] https://www.youtube.com/channel/UCBtAiDlFZJm09SFs3N6b0IA
-
-Privacy Related YouTube Channels
-InfosecBytes https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg
+## <center>Computer Science</center>
+<ul>
+  <li>[Michael Reeves](https://www.youtube.com/c/MichaelReeves)</li>
+  <li>[Chris Titus]()</li>
+  <li>[Rob Braxman]()</li>
+  <li>[Jabrils](https://www.youtube.com/c/Jabrils)</li>
+</ul>
+<br>
+---
+## <center>Psychology</center>
+<ul>
+  <li>[What About Bunny](https://www.youtube.com/channel/UCEa46rlHqEP6ClWitFd2QOQ)</li>
+</ul>
+<br>
+---
+## <center>Religion</center>
+<ul>
+  <li>[Tiaan Gildenhuys](https://www.youtube.com/channel/UCBtAiDlFZJm09SFs3N6b0IA)</li>
+</ul>
+<br>
+---
+## <center>Privacy</center>
+<ul>
+  <li>[InfosecBytes](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)</li>
+</ul>
+<br>
+---
 ---
 ## <center>Engineering</center>
 <ul>
@@ -31,6 +45,14 @@ InfosecBytes https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg
 </ul>
 <br>
 ---
+## <center>Bitcoin</center>
+<ul>
+  <li>[DataDash](https://www.youtube.com/c/DataDash)</li>
+  <li>[CryptoOracle](https://www.youtube.com/c/CryptoOracle)</li>
+  <li>[](https://www.youtube.com/channel/UCYI2mPvsSXz99QPAVAPIG5Q)</li>
+</ul>
+<br>
+---
 CryptoViewing https://www.youtube.com/channel/UCF-9iV-xOAzOnjdYH4hap2w/featured
-Crypto Oracle
 Jsnip4
+LockpickingLawyer

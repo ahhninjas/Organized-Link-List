@@ -2,10 +2,18 @@
 <ul>
     <li>[Carrd](https://carrd.co//)</li>
     <li>[CodePen](https://codepen.io//)</li>
-    <li>[Fontsquirrel WebFont Generator](https://www.fontsquirrel.com/tools/webfont-generator/)</li>
+    <li>[FontSquirrel WebFont Generator](https://www.fontsquirrel.com/tools/webfont-generator/)</li>
     <li>[CSS Generator](https://html-css-js.com/css/generator//)</li>
     <li>[FontAwesome](https://fontawesome.com//)</li>
     <li>[Google Forms Studio](https://forms.studio//)</li>
+</ul>
+<br>
+---
+## <center>Coding Language Reference</center>
+<ul>
+    <li>[Google Style Guide GitHub](https://google.github.io/styleguide/docguide/style.html)</li>
+    <li>[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)</li>
+    <li>[Markdown Basic Guide](https://www.markdownguide.org/basic-syntax/)</li>
 </ul>
 <br>
 ---
@@ -26,8 +34,9 @@
     <li>[JustGetMYData](https://justgetmydata.com/)</li>
     <li>[Privacy Tools](https://www.privacytools.io/)</li>
     <li>[DeleteMyData](https://deletemydata.io/)</li>
-    <li>[](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)</li>
-    <li>[](https://reports.exodus-privacy.eu.org/en/)</li>
+    <li>[Ultimate Privacy Test Resource List](https://www.ghacks.net/2015/12/28/the-ultimate-online-privacy-test-resource-list/)</li>
+    <li>[Electronic Freedom Foundation](https://www.eff.org/)</li>
+    <li>[Exodus](https://reports.exodus-privacy.eu.org/en/)</li>
 </ul>
 <br>
 ---
@@ -141,6 +150,69 @@
     <li>[uMatrix](https://github.com/gorhill/uMatrix)</li>
     <li>[MetaMask](https://addons.mozilla.org/en-US/firefox/addon/ether-metamask/)</li>
     <li>[TinEye](https://tineye.com/)</li>
+</ul>
+<br>
+---
+## <center>Blocklist</center>
+<ul>
+    <li>[Awesome Threat Intelligence](https://awesomeopensource.com/project/hslatman/awesome-threat-intelligence/)</li>
+    <li>[EasyList Blocklist](https://easylist.to//)</li>
+    <li>[IpLists](https://iplists.firehol.org/?ipset=blocklist_net_ua/)</li>
+    <li>[Emerging Threats IP Blocklist](https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt/)</li>
+    <li>[Binary Defense](https://www.binarydefense.com/banlist.txt/)</li>
+    <li>[ItsATrap](https://www.itisatrap.org/firefox/its-a-trap.html/)</li>
+    <li>[iBlockList](https://www.iblocklist.com/lists.php/)</li>
+    <li>[AdBlockplus Blocklist Subscriptions](https://adblockplus.org/en/subscriptions/)</li>
+</ul>
+<br>
+---
+## <center>Email</center>
+    <li>[10MinMail](https://10minemail.com/)</li>
+    <li>[Emkei](https://emkei.cz/)</li>
+    <li>[FaxZero](https://faxzero.com/)</li>
+    <li>[Gmail](https://www.google.com/gmail/about/)</li>
+    <li>[HaveIBeenPwned](https://haveibeenpwned.com/)</li>
+    <li>[EmailPrivacyTester](https://www.emailprivacytester.com/)</li>
+    <li>[ProtonMail](https://mail.protonmail.com/)</li>
+    <li>[MailDrop](https://maildrop.cc/)</li>
+    <li>[ThunderBird](https://www.thunderbird.net/en-US/)</li>
+</ul>
+<br>
+---
+## <center>Digital Library</center>
+<ul>
+    <li>[Chris Titus IT Resources](https://www.christitus.com/)</li>
+    <li>[Early Christian writings](https://www.earlychristianwritings.com/)</li>
+    <li>[B-Ok.cc](https://b-ok.cc/)</li>
+    <li>[U1Lib.org](https://u1lib.org/)</li>
+    <li>[Awesome Open Source Projects](https://awesomeopensource.com/)</li>
+    <li>[Project Gutenberg](https://www.gutenberg.org/)</li>
+    <li>[BlackViper Windows Resources](https://www.blackviper.com/)</li>
+    <li>[BlackhatWorld](https://www.blackhatworld.com/)</li>
+    <li>[Archive.org](https://archive.org/)</li>
+    <li>[Libgen.is](https://libgen.is/)</li>
+    <li>[Librivox.org](https://librivox.org/)</li>
+</ul>
+<br>
+---
+## <center>UX</center>
+<ul>
+    <li>[UserTesting](https://www.usertesting.com/users/sign_in/)</li>
+    <li>[TryMyUI](https://www.trymyui.com/login/)</li>
+</ul>
+<br>
+---
+## <center>Password Storage</center>
+<ul>
+    <li>[Bitwarden](https://bitwarden.com/)</li>
+    <li>[KeepassDX](https://www.keepassdx.com/)</li>
+    <li>[Incognito](https://incognito.org/)</li>
+</ul>
+<br>
+---
+## <center>Cloud Storage</center>
+  <li>[DropBox](/)</li>
+  <li>[Google Cloud](/)</li>
 </ul>
 <br>
 ---
