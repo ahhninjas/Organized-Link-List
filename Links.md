@@ -1,8 +1,12 @@
 # <center><u>**Digital Tools Link List**</u>
 ---
-### <center>An organized list of digital tools that will enhance your productivity and awareness of the world.
+>---
+Create a list that includes a HTML hashtag to the following section below. Use Resume internal reference code snippet.
+>---
+
+### <center>An organized list of digital tools that will enhance your productivity and awareness of the world.</center>
 <br>
-All links sorted by category
+Links Sorted by Category:<br>
 [Computer Science]()
 [Finance]()
 [YouTube]()
@@ -10,7 +14,7 @@ All links sorted by category
 ---
 ## <center>Law</center>
 <ul>
-<li>[PACER](https://pacer.uscourts.gov/)</li>
+    <li>[PACER](https://pacer.uscourts.gov/)</li>
 </ul>
 <br>
 ---
@@ -159,14 +163,30 @@ about:profiles - Copy and paste into Mozilla Firefox URL bar to see more detaile
 about:config - Copy and paste into Mozilla Firefox URL bar to see more detailed info about the current Mozilla settings
 about:cache - Copy and paste into Mozilla Firefox URL bar to see more detailed info about the current Mozilla storage
     <li>[about:cache](about:cache)</li>
+    <li>[](https://accounts.firefox.com/)</li>
+    <li>[](https://softwarebychuck.com/febe/febe.html)</li>
+    <li>[](https://firefox-storage-test.glitch.me/)</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
+
+
+
+---
+## <center></center>
+<ul>
+
     <li>[]()</li>
     <li>[]()</li>
     <li>[]()</li>
     <li>[]()</li>
     <li>[]()</li>
-https://accounts.firefox.com/
-https://softwarebychuck.com/febe/febe.html
-https://firefox-storage-test.glitch.me/
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
 </ul>
 <br>
 ---
@@ -204,6 +224,23 @@ Please feel free to fork this project. Diversity encourages evolution.
 ---
 
 <!--
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Tails
 https://tails.boum.org/
 https://freephonenum.com/
@@ -285,7 +322,6 @@ C:\Users\Ninja\Documents\Sean\Programs\Backups\Registry\CCleaner Lists\CCleaner 
 ---
 ## <center></center>
 <ul>
-
     <li>[]()</li>
     <li>[]()</li>
     <li>[]()</li>
@@ -393,12 +429,6 @@ Jack Kruse
 
 https://scienceintegritydigest.com/2019/07/15/human-photosynthesis/
 
-jetson White
-https://rumble.com/c/c-863943
-
-John Bon john
-ODD TV
-
 Farmbot
 Markerbot
 
@@ -419,58 +449,127 @@ https://www.computerworld.com/article/2488657/the-paranoid-s-survival-guide-part
 https://optout.aboutads.info/?c=2&lang=EN
 https://optout.networkadvertising.org/?c=1
 
-
 https://famguardian.org/Subjects/Freedom/Freedom.htm
 https://app.statenational.us/login
 
-
 https://www.annualcreditreport.com/index.action
-
 
 Turo car rental
 
+
+
+
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 https://www.dmachoice.org/
 https://www.donotcall.gov/
 https://www.privacypros.com/
-
 
 https://www.mailinator.com/
 
 minergate.com
 
-Bitwarden https://bitwarden.com/
 
-https://www.keepassdx.com/
-Incognito https://incognito.org/
 
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 
 https://ethpool.org/
 https://nanopool.org/
 https://exp.2miners.com/
 
-
 Keepassxc FOSS Password manager
 
 liquidation.com
 
-TradingView Code
+---
+## <center>TradingView Code</center>
+<br>
 This is code from TradingView which can be used to create more intricate algorithms for automagically trading using C++
-https://www.tradingview.com/script/VMAKO9SS-Megatrend-MTF-Alerts/
-https://www.tradingview.com/script/jC4pKcdu-The-Hulk/
-https://www.tradingview.com/u/That25RGuy/
-https://www.tradingview.com/script/7gOLdW0T-EMA-9/
-https://www.tradingview.com/script/0qXvSrcM-WMA-color-change/
-https://www.tradingview.com/script/QqEN9WEQ-VWAPPI/
-https://www.tradingview.com/script/IpWFYp5N-Moon-Cycles/
-https://www.tradingview.com/script/gxWd7OvT-Simple-Moving-Averages-8-16-Cross/
-https://www.tradingview.com/script/TlrT9sKe-Moving-Average-Convergence-Divergence-Line/
-https://www.tradingview.com/script/trxrelfk-ExitSignal/
-https://www.tradingview.com/script/eLtKzSml-BB-MA5-10-BB-Squeeze/
-https://www.tradingview.com/script/RgjblIR5-Simple-Moving-Averages-5-10/
-https://www.tradingview.com/script/W36792XK-EMA-Cross-20-50-200/
-https://www.tradingview.com/script/WWGca4Id-Ichimoku-Moving-Average-Bollinger-Bands/
-https://www.tradingview.com/script/EHTKtnIt-ST-Volume-Flow-v6/
+<ul>
+    <li>[Megatrend MTF Alerts](https://www.tradingview.com/script/VMAKO9SS-Megatrend-MTF-Alerts/)</li>
+    <li>[](https://www.tradingview.com/script/jC4pKcdu-The-Hulk/)</li>
+    <li>[](https://www.tradingview.com/script/7gOLdW0T-EMA-9/)</li>
+    <li>[](https://www.tradingview.com/script/0qXvSrcM-WMA-color-change/)</li>
+    <li>[](https://www.tradingview.com/script/QqEN9WEQ-VWAPPI/)</li>
+    <li>[](https://www.tradingview.com/script/IpWFYp5N-Moon-Cycles/)</li>
+    <li>[](https://www.tradingview.com/script/gxWd7OvT-Simple-Moving-Averages-8-16-Cross/)</li>
+    <li>[](https://www.tradingview.com/script/TlrT9sKe-Moving-Average-Convergence-Divergence-Line/)</li>
+    <li>[](https://www.tradingview.com/script/trxrelfk-ExitSignal/)</li>
+    <li>[](https://www.tradingview.com/script/eLtKzSml-BB-MA5-10-BB-Squeeze/)</li>
+    <li>[](https://www.tradingview.com/script/RgjblIR5-Simple-Moving-Averages-5-10/)</li>
+    <li>[](https://www.tradingview.com/script/W36792XK-EMA-Cross-20-50-200/)</li>
+    <li>[](https://www.tradingview.com/script/WWGca4Id-Ichimoku-Moving-Average-Bollinger-Bands/)</li>
+    <li>[](https://www.tradingview.com/script/EHTKtnIt-ST-Volume-Flow-v6/)</li>
+    <li>[](https://www.tradingview.com/u/That25RGuy/)</li>
+</ul>
+<br>
+---
 
+
+
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Privacy Oriented Communications
 https://puri.sm/
 https://puri.sm/products/librem-5/
@@ -479,52 +578,143 @@ https://e.foundation/
 https://www.pine64.org/pinephone/
 https://www.pine64.org/pinephonepro/
 
+
+
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Legal Documentation
 https://travel.state.gov/content/travel/en/passports.html/
 
+
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Unclaimed Property
 https://www.ok.gov/treasurer/Unclaimed_Property/
 https://claimittexas.org/
 
+
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Soccer
 https://gameonfw.com/adult-sports-ft-worth/indoor-soccer/
 https://gnwsa.com/
-
 
 From programs sections. This section will need to be sorted according to the subsections.
 
 OpenOffice
 MS Office
 
-
 Google Docs - this even includes a voice dictation method if your a slow at typing
+
+---
+## <center></center>
+<ul>
+
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 
 Casting
 https://en.wikipedia.org/wiki/Jeopardy!_audition_process
 https://www.jeopardy.com/be-on-j/faqs
 https://www.jeopardy.com/be-on-j
 
-Writing Opportunities
-https://www.proofreadingservices.com/
-https://scriptwritersnetwork.com/
-https://www.gramlee.com/
-https://iapwe.org/
 
+---
+## <center>Writing Opportunities</center>
+<ul>
+    <li>[](https://www.proofreadingservices.com/)</li>
+    <li>[](https://scriptwritersnetwork.com/)</li>
+    <li>[](https://www.gramlee.com/)</li>
+    <li>[](https://iapwe.org/)</li>
+</ul>
+<br>
+---
+## <center>Farming and Local Agriculture</center>
+<ul>
+    <li>[](http://bar-cs-ranch.com/)</li>
+    <li>[](https://kellerfarmersmarket.com/location-hours/)</li>
+    <li>[](https://www.localharvest.org/udderly-free-range-M65445)</li>
+    <li>[](https://www.localharvest.org/rose-creek-farms-cooperative-M60109)</li>
+    <li>[](https://www.localharvest.org/keller-farmers-market-M34260)</li>
+    <li>[](https://www.localharvest.org/beach-street-local-market-M35854)</li>
+    <li>[Heartland Hills Cattle Co](https://www.localharvest.org/heartland-hills-cattle-co--M75906)</li>
+    <li>[DFW Organic Growing](https://www.localharvest.org/dfw-organic-growing-M76552)</li>
+    <li>[Cowtown Farmers Market](https://www.localharvest.org/cowtown-farmers-market-M16695)</li>
+    <li>[Fleece Fur and Feathers](https://www.localharvest.org/c-b-fleece-fur-and-feathers-M32794)</li>
+    <li>[Adobe Farm](https://www.localharvest.org/adobe-farm-M51609)</li>
+</ul>
+<br>
+---
+## <center></center>
+<ul>
 
-Farming and Local Agriculture
-http://bar-cs-ranch.com/
-https://kellerfarmersmarket.com/location-hours/
-https://www.localharvest.org/udderly-free-range-M65445
-https://www.localharvest.org/rose-creek-farms-cooperative-M60109
-https://www.localharvest.org/keller-farmers-market-M34260
-https://www.localharvest.org/beach-street-local-market-M35854
-https://www.localharvest.org/heartland-hills-cattle-co--M75906
-https://www.localharvest.org/dfw-organic-growing-M76552
-https://www.localharvest.org/cowtown-farmers-market-M16695
-https://www.localharvest.org/c-b-fleece-fur-and-feathers-M32794
-https://www.localharvest.org/adobe-farm-M51609
-
-
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
 Media Creation
 Ableton Live
 Audacity
@@ -533,51 +723,23 @@ Fruity Loops Studio
 Natural Reader 11
 SumatraPDF
 
-
 Keepassxc FOSS Password manager
 
-
-https://www.nbc.com/global/pages/casting
-https://abc.com/casting
-https://www.auditionsfree.com/tag/game-show-auditions/
-https://www.castingcallhub.com/tryout/game-show/
-
-
-
-Interesting psych terms list and studies
-as always there is a shorter way to crunch the information. If you can listen to the information at a faster pace then i suggest using narrator mode and using the speed slider button in most browsers to increase the speed at which the narrator talks.
-
-https://en.wikipedia.org/wiki/Mu_(mythical_lost_continent)
-100th monkey effect
-phineas gauge
-pantentogenesis
-https://en.wikipedia.org/wiki/Butterfly_effect
-https://en.wikipedia.org/wiki/Hollow_Earth
-agartha
-mt meru
-https://en.wikipedia.org/wiki/Atlantis
-https://en.wikipedia.org/wiki/Agartha
-https://en.wikipedia.org/wiki/Black_swan_theory
-https://en.wikipedia.org/wiki/MU
-https://en.wikipedia.org/wiki/List_of_cognitive_biases
-black sun theory
-https://en.wikipedia.org/wiki/Auguste_Piccard
-https://en.wikipedia.org/wiki/Phineas_Gage
-https://en.wikipedia.org/wiki/Stanford_prison_experiment
-Walter John Kilner
-Royal Rife
-Harold Saxton Burr
-Antoine Prioré
-
-
-
-
-
-
+---
+## <center>Casting Calls</center>
+<ul>
+    <li>[](https://www.nbc.com/global/pages/casting)</li>
+    <li>[](https://abc.com/casting)</li>
+    <li>[](https://www.auditionsfree.com/tag/game-show-auditions/)</li>
+    <li>[](https://www.castingcallhub.com/tryout/game-show/)</li>
+</ul>
+<br>
+---
 https://offerup.com/search?q=free
 
 https://gajim.org/
 
+Writing Opportunities
 https://allfreelancewriting.com/
 https://wordvice.com/career/editor/
 https://wordvice.com/career/
@@ -590,6 +752,11 @@ https://alternativelivingspaces.com/models/alt-pool/
 Pool
 https://modpools.com/
 
+
+https://en.wikipedia.org/wiki/Neuroplasticity
+
+https://www.localharvest.org/cold-spring-farm-M53477
+
 https://www.fairphone.com/en/
 https://www.castingcallhub.com/
 
@@ -600,7 +767,6 @@ jabber.hot-chilli.net is a free Jabber/XMPP service for everybody.
 https://jabber.hot-chilli.net/
 
 https://www.redwormcomposting.com/the-share-board/big-tex-worms/
-
 
 https://meta.wikimedia.org/wiki/IRC/Instructions
 
@@ -621,4 +787,142 @@ https://www.dmachoice.org/
 https://usdebtclock.org/
 
 https://www.donotcall.gov/
+
+
+
+
+
+
+
+
+
+
+
+https://www.cryosc.com/products/cryo-science-arctic/
+https://www.cryosc.com/products/
+
+
+
+https://cryomedpro.com/
+https://cryomed.pro/equipment/used-devices/
+
+https://rutherfordtitan.com/collections/used-cryotherapy-equipment
+
+
+
+Oxygen Therapy
+https://www.oxygenbarsales.com/
+https://www.oxygenbars.com/
+https://www.oxygenbarsales.com/oxygen-bars-catalog/
+
+
+
+Vibration Plates
+https://shop.bulletproof.com/products/whole-body-vibration-plate
+https://vibraprofitness.com/
+
+
+Anti Surveillance Wear
+https://weburbanist.com/2016/11/28/how-to-be-invisible-15-anti-surveillance-designs-installations/
+
+add privacy.io tools to github link list
+add new it websitees to tools list in github
+add  tools from the programs folder n the ductumnets to the list
+
+HaveIBeenPwned
+
+ffox profile exporter
+
+
+https://www.perfectwaters.net/
+
+Kangen Water
+https://www.enagic.com/
+https://www.kangenwater1412.com/
+
+
+TheraLight
+https://www.theralight.com/productsoverview/
+https://www.theralight.com/productsoverview/360product/
+https://www.davincimedicalusa.com/aspen-theralight-pod
+https://www.rehabmart.com/product/theralight-360-hd-full-body-light-therapy-wellness-pod-48265.html
+https://www.ebay.com/itm/233071305036
+
+
+RenuvaSkin
+https://prosun.com/wellness/renuvaskin-l32-red-light-bed/
+https://suntanningstore.com/products/prosun-renuvaskin-l32-120v-red-light-therapy-bed
+https://suntansupply.org/renuvaskin-full-body-stand-up-red-light-system-2/
+https://prosun.com/wellness/renuvaskin-s420-red-light-booth/
+
+
+
+
+Quantlet
+https://thequantlet.com/
+https://www.youtube.com/watch?v=M7qTlZCHcY4
+https://www.indiegogo.com/projects/the-quantlet-human-performance-reimagined#/
+
+
+
+
+
+Stealth Wear
+https://ahprojects.com/stealth-wear/
+
+Adam Harvey Projects
+https://ahprojects.com/
+
+
+
+https://www.bugoutbagbuilder.com/blog/how-make-your-own-faraday-cage-home
+
+
+Normatec
+https://hyperice.ca/product/normatec-2-0-legs/
+https://hyperice.com/products/normatec-2-pro-legs/
+
+https://www.enagiceu.com/en_US/what-is-kangen-water
+
+
+
+https://hyperice.ca/
+
+
+https://www.ngi.eu/
+tradeblock
+etherscan
+etherdelta
+
+Drx 900 Spinal Decompression
+https://www.youtube.com/watch?v=MqPVS0sdEr4
+https://www.youtube.com/watch?v=rJdhKTQxLCs
+https://www.youtube.com/results?search_query=drx+9000
+
+youtube
+tiaan Gildenhuys
+zen garcia
+endeavor Freedom
+david carrico
+
+
+
+http://climateviewer.org/
+
+https://pdf4pro.com/amp
+
+
+
+Healing Youtube Videos Based Upon Items
+
+Normatech
+https://www.youtube.com/watch?v=lrmvdxZ5RKY
+
+
+inversion Table Spinal Decompression
+https://www.youtube.com/watch?v=9SoBXHhnt3w
+
+
+netguard for android firewall for phone
+
 -->

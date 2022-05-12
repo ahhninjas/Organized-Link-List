@@ -1,3 +1,11 @@
+
+
+
+
+>---
+Create a list that includes a HTML hashtag to the following section below. Use Resume internal reference code snippet.
+>---
+
 ## <center>Coding</center>
 <ul>
     <li>[Carrd](https://carrd.co//)</li>
@@ -101,17 +109,6 @@
 </ul>
 <br>
 ---
-## <center>Spoof</center>
-<ul>
-    <li>[BluffMyCall](https://bluffmycall.com/)</li>
-    <li>[Electronic Freedom Foundation Cover Your Tracks](https://coveryourtracks.eff.org/)</li>
-    <li>[SMSGang](https://www.smsgang.com/)</li>
-    <li>[SpyDialer](https://www.spydialer.com/)</li>
-    <li>[Dephormation](https://www.dephormation.org.uk/?page=81)</li>
-    <li>[SpoofMyText](https://www.spoofmytext.com/)</li>
-</ul>
-<br>
----
 ## <center>Torrents</center>
 <ul>
     <li>[1337xto](https://1337xto.to/)</li>
@@ -211,8 +208,37 @@
 <br>
 ---
 ## <center>Cloud Storage</center>
-  <li>[DropBox](/)</li>
-  <li>[Google Cloud](/)</li>
+    <li>[DropBox](/)</li>
+    <li>[Google Cloud](/)</li>
+</ul>
+<br>
+---
+## <center>SMS Spoofing</center>
+<ul>
+    <li>[RecieveSMSNow](https://receive-sms-now.com/)</li>
+    <li>[RecieveFreeSMS](http://receivefreesms.com/)</li>
+    <li>[RecieveSMS](https://www.receivesms.co/)</li>
+    <li>[FreeOnlinePhone](https://www.freeonlinephone.org/)</li>
+    <li>[RecieveSMSOnline](https://receive-sms-online.info/)</li>
+    <li>[RecieveSMS](https://receive-sms.com/)</li>
+    <li>[SMSRecieveFree](https://smsreceivefree.com/)</li>
+    <li>[RecieveSMSOnline](https://www.receivesmsonline.net/)</li>
+    <li>[Receive SMS Online](http://receive-sms-online.com/)</li>
+    <li>[SMS Sellaite](https://sms.sellaite.com/)</li>
+    <li>[HS3X](https://hs3x.com/)</li>
+    <li>[IFakeTextMessage](https://ifaketextmessage.com/)</li>
+    <li>[Online SMS](https://online-sms.org/)</li>  
+</ul>
+<br>
+---
+## <center>SMS Calling Spoof</center>
+<ul>
+    <li>[BluffMyCall](https://bluffmycall.com/)</li>
+    <li>[Electronic Freedom Foundation Cover Your Tracks](https://coveryourtracks.eff.org/)</li>
+    <li>[SMSGang](https://www.smsgang.com/)</li>
+    <li>[SpyDialer](https://www.spydialer.com/)</li>
+    <li>[Dephormation](https://www.dephormation.org.uk/?page=81)</li>
+    <li>[SpoofMyText](https://www.spoofmytext.com/)</li>
 </ul>
 <br>
 ---

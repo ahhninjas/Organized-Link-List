@@ -1,4 +1,10 @@
-YouTube Channels
+## <center>Media</center>
+<br>
+These are some good places to continually increase the awareness of the world around you.
+<br>
+>---
+Create a list that includes a HTML hashtag to the following section below. Use Resume internal reference code snippet.
+>---
 
 ## <center>Computer Science</center>
 <ul>
@@ -6,6 +12,7 @@ YouTube Channels
   <li>[Chris Titus]()</li>
   <li>[Rob Braxman]()</li>
   <li>[Jabrils](https://www.youtube.com/c/Jabrils)</li>
+  <li>[InfosecBytes](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)</li>
 </ul>
 <br>
 ---
@@ -20,13 +27,6 @@ YouTube Channels
   <li>[Tiaan Gildenhuys](https://www.youtube.com/channel/UCBtAiDlFZJm09SFs3N6b0IA)</li>
 </ul>
 <br>
----
-## <center>Privacy</center>
-<ul>
-  <li>[InfosecBytes](https://www.youtube.com/channel/UCfET6btFpe1e0CRGTFOulNg)</li>
-</ul>
-<br>
----
 ---
 ## <center>Engineering</center>
 <ul>
@@ -49,10 +49,22 @@ YouTube Channels
 <ul>
   <li>[DataDash](https://www.youtube.com/c/DataDash)</li>
   <li>[CryptoOracle](https://www.youtube.com/c/CryptoOracle)</li>
-  <li>[](https://www.youtube.com/channel/UCYI2mPvsSXz99QPAVAPIG5Q)</li>
+  <li>[Jsnip4](https://www.youtube.com/channel/UCYI2mPvsSXz99QPAVAPIG5Q)</li>
+  <li>[CryptoViewing](https://www.youtube.com/channel/UCF-9iV-xOAzOnjdYH4hap2w/featured)</li>
 </ul>
 <br>
 ---
-CryptoViewing https://www.youtube.com/channel/UCF-9iV-xOAzOnjdYH4hap2w/featured
-Jsnip4
-LockpickingLawyer
+ >---
+ ## <center></center>
+<ul>
+    <li>[Jetson White](https://rumble.com/c/c-863943)</li>
+    <li>[John Bon John]()</li>
+    <li>[ODD TV]()</li>
+    <li>[]()</li>
+    <li>[LockpickingLawyer]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+    <li>[]()</li>
+</ul>
+<br>
+---
