@@ -677,21 +677,21 @@ https://www.jeopardy.com/be-on-j
 ---
 ## <center>Writing Opportunities</center>
 <ul>
-    <li>[](https://www.proofreadingservices.com/)</li>
-    <li>[](https://scriptwritersnetwork.com/)</li>
-    <li>[](https://www.gramlee.com/)</li>
-    <li>[](https://iapwe.org/)</li>
+    <li>[ProofreadingServices](https://www.proofreadingservices.com/)</li>
+    <li>[ScriptWritersNetwork](https://scriptwritersnetwork.com/)</li>
+    <li>[Gramlee](https://www.gramlee.com/)</li>
+    <li>[IAPWE](https://iapwe.org/)</li>
 </ul>
 <br>
 ---
 ## <center>Farming and Local Agriculture</center>
 <ul>
-    <li>[](http://bar-cs-ranch.com/)</li>
-    <li>[](https://kellerfarmersmarket.com/location-hours/)</li>
-    <li>[](https://www.localharvest.org/udderly-free-range-M65445)</li>
-    <li>[](https://www.localharvest.org/rose-creek-farms-cooperative-M60109)</li>
-    <li>[](https://www.localharvest.org/keller-farmers-market-M34260)</li>
-    <li>[](https://www.localharvest.org/beach-street-local-market-M35854)</li>
+    <li>[Bar CS Ranch](http://bar-cs-ranch.com/)</li>
+    <li>[Keller Farmers Market](https://kellerfarmersmarket.com/location-hours/)</li>
+    <li>[Udderly Free Range](https://www.localharvest.org/udderly-free-range-M65445)</li>
+    <li>[Rose Creek Farms Cooperative](https://www.localharvest.org/rose-creek-farms-cooperative-M60109)</li>
+    <li>[Local Harvest Keller Farmers Market](https://www.localharvest.org/keller-farmers-market-M34260)</li>
+    <li>[Beach Street Local Market](https://www.localharvest.org/beach-street-local-market-M35854)</li>
     <li>[Heartland Hills Cattle Co](https://www.localharvest.org/heartland-hills-cattle-co--M75906)</li>
     <li>[DFW Organic Growing](https://www.localharvest.org/dfw-organic-growing-M76552)</li>
     <li>[Cowtown Farmers Market](https://www.localharvest.org/cowtown-farmers-market-M16695)</li>
@@ -702,7 +702,6 @@ https://www.jeopardy.com/be-on-j
 ---
 ## <center></center>
 <ul>
-
     <li>[]()</li>
     <li>[]()</li>
     <li>[]()</li>
@@ -728,10 +727,10 @@ Keepassxc FOSS Password manager
 ---
 ## <center>Casting Calls</center>
 <ul>
-    <li>[](https://www.nbc.com/global/pages/casting)</li>
-    <li>[](https://abc.com/casting)</li>
-    <li>[](https://www.auditionsfree.com/tag/game-show-auditions/)</li>
-    <li>[](https://www.castingcallhub.com/tryout/game-show/)</li>
+    <li>[NBC Casting](https://www.nbc.com/global/pages/casting)</li>
+    <li>[ABC Casting Call](https://abc.com/casting)</li>
+    <li>[Auditions Game Show Auditions](https://www.auditionsfree.com/tag/game-show-auditions/)</li>
+    <li>[CastingCallHub](https://www.castingcallhub.com/tryout/game-show/)</li>
 </ul>
 <br>
 ---
@@ -789,17 +788,10 @@ https://usdebtclock.org/
 https://www.donotcall.gov/
 
 
-
-
-
-
-
-
-
-
-
 https://www.cryosc.com/products/cryo-science-arctic/
 https://www.cryosc.com/products/
+
+
 
 
 
@@ -809,12 +801,10 @@ https://cryomed.pro/equipment/used-devices/
 https://rutherfordtitan.com/collections/used-cryotherapy-equipment
 
 
-
 Oxygen Therapy
 https://www.oxygenbarsales.com/
 https://www.oxygenbars.com/
 https://www.oxygenbarsales.com/oxygen-bars-catalog/
-
 
 
 Vibration Plates
@@ -863,16 +853,11 @@ https://thequantlet.com/
 https://www.youtube.com/watch?v=M7qTlZCHcY4
 https://www.indiegogo.com/projects/the-quantlet-human-performance-reimagined#/
 
-
-
-
-
 Stealth Wear
 https://ahprojects.com/stealth-wear/
 
 Adam Harvey Projects
 https://ahprojects.com/
-
 
 
 https://www.bugoutbagbuilder.com/blog/how-make-your-own-faraday-cage-home
@@ -905,7 +890,10 @@ zen garcia
 endeavor Freedom
 david carrico
 
-
+https://getonlinevideos.com/bitchute-video-downloader?lang=en
+https://tubi.sk/bitchute-video-downloader/
+https://www.videotosave.com/bitchute-video-downloader/
+https://y2downloots.com/
 
 http://climateviewer.org/
 
@@ -924,5 +912,165 @@ https://www.youtube.com/watch?v=9SoBXHhnt3w
 
 
 netguard for android firewall for phone
+
+
+
+
+https://lightstim.com/
+
+https://en.wikipedia.org/wiki/Telomere
+https://en.wikipedia.org/wiki/Telomerase
+
+https://www.pidgin.im/
+
+
+https://www.kali.org/get-kali/
+https://www.kali.org/tools/
+
+
+
+https://judge.me/reviews/army-chemical.myshopify.com/products/pp5000-urine-detection-light
+https://armychemical.com/products/pp5000-urine-detection-light
+
+
+https://sdi-tool.org/
+https://sdi-tool.org/download/
+
+https://en.wikipedia.org/wiki/Monosodium_glutamate
+https://en.wikipedia.org/wiki/Excipient
+https://en.wikipedia.org/wiki/Excitotoxicity
+https://en.wikipedia.org/wiki/Aspartame
+https://en.wikipedia.org/wiki/Nootropic
+
+Zenni optical
+
+Learning tools
+Mike Adams
+StationX
+
+dr Lorraine day
+https://missingmoney.com/en/
+https://missingmoney.com/en/Home/StateContact
+
+Dr. Russell Blaylock
+https://www.youtube.com/channel/UCPvDn8vvYN6rk890faj8RMg
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=List_of_lost_lands&oldid=1059402666"
+
+Retrieved from "
+https://en.wikipedia.org/w/index.php?title=Thracian_religion&oldid=1079508001
+"
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Mount_Meru&oldid=1060670654"
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=GcMAF&oldid=1035212419"
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=William_Fairfield_Warren&oldid=1002005637"
+
+Lodestone
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Lodestone&oldid=1052696560"
+
+Year Without A Summer
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Year_Without_a_Summer&oldid=1059273969"
+This
+
+Rupes Nigra
+"https://en.wikipedia.org/w/index.php?title=Rupes_Nigra&oldid=1050422157"
+
+
+https://www.youtube.com/c/MichaelReee2
+
+https://www.youtube.com/c/theHacksmith
+https://www.youtube.com/c/colinfurze
+
+https://en.wikipedia.org/wiki/Deuterium
+
+
+
+
+
+http://www.aimbooster.com/
+
+https://aimlab.gg/
+
+
+
+
+https://www.fenbendazole.org/
+
+
+https://www.dipyourcar.com/products/kryptobright-glow-car-kit
+
+https://tubi.sk/bitchute-video-downloader/
+https://getonlinevideos.com/bitchute-video-downloader?lang=en
+https://deturl.com/
+https://www.download-video.com/sites/download-rumble-video.html
+https://www.videotosave.com/bitchute-video-downloader/
+https://savevideo.me/en/
+https://www.acethinker.com/online-downloader
+https://catch.tube/
+https://y2downloots.com/
+https://yoodownload.com/
+https://savethevideo.net/rumble-video-downloader
+https://freedownloadvideo.net/rumble-video-downloader
+https://redirect.invidious.io/
+https://youtubemp4.to/en7/
+https://keepvid.com/sites/download-rumble-video.html
+
+
+
+
+
+
+
+
+
+
+
+https://www.bitchute.com/channel/bluewater/
+https://www.bitchute.com/channel/HBBwqdoMy7Gz/
+https://www.youtube.com/c/CryptoOracle/videos
+https://www.youtube.com/c/CryptoViewing2/videos
+https://www.youtube.com/channel/UCCatR7nWbYrkVXdxXb4cGXw
+https://www.youtube.com/c/EndeavorFreedom/videos
+https://rumble.com/c/c-863943
+https://www.bitchute.com/channel/jim-crenshaw/
+https://rumble.com/user/Jsnip4
+https://www.youtube.com/channel/UCYI2mPvsSXz99QPAVAPIG5Q/videos
+https://www.bitchute.com/channel/Ma107tEUNW7q/
+https://www.bitchute.com/channel/orion_daystar6676/
+https://www.bitchute.com/channel/philosophers-stoneinfo/
+https://153news.net/view_channel.php?user=Russianvids
+https://www.bitchute.com/channel/shariraye/
+https://rumble.com/c/TheDigitalSoldierPress
+https://www.bitchute.com/channel/the_high_command/
+https://www.youtube.com/channel/UCBtAiDlFZJm09SFs3N6b0IA
+
+https://www.youtube.com/c/%C3%9AnicoSobreviviente
+
+https://www.buymeacoffee.com/
+https://www.ancient-minerals.com/transdermal-magnesium/
+
+
+https://naturalcalm.ca/guide-to-transdermal-magnesium/
+
+https://www.myaquacure.com/product/aquacure-ac50-complete-kit/
+https://www.myaquacure.com/
+https://en.wikipedia.org/wiki/Vaporizer_(inhalation_device)
+https://en.wikipedia.org/wiki/Nebulizer
+
+https://en.wikipedia.org/wiki/Christopher_Hills
+
+https://www.dnb.com/
+
+
+
+https://www.youtube.com/c/NosConfunden
+
+
+
+
+
+
 
 -->
