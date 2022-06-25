@@ -48,5 +48,10 @@ Create a list that includes a HTML hashtag to the following section below. Use R
 ---
 
 <!--
+https://en.wikipedia.org/wiki/Sodium_thiosulfate
+
+https://en.wikipedia.org/wiki/Prussian_blue_(medical_use)
+
+
 
 -->

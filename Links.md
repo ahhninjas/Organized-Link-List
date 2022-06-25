@@ -987,14 +987,14 @@ https://en.wikipedia.org/wiki/Deuterium
 
 
 
-
+https://www.youtube.com/c/DrSircus/featured
 
 http://www.aimbooster.com/
 
 https://aimlab.gg/
 
-
-
+https://www.kingdomclaritylabel.com/news/a-comprehensive-list-of-food-companies-and-products-that-use-senomyx
+https://www.youtube.com/results?search_query=dr+abram+hoffer
 
 https://www.fenbendazole.org/
 
@@ -1067,10 +1067,56 @@ https://www.dnb.com/
 
 https://www.youtube.com/c/NosConfunden
 
+https://www.aquacure4u.com/
+https://www.perkinelmer.com/product/40h-high-purity-generator-250-ml-min-n9303226
+
+https://www.bestbuy.com/site/services/recycling/pcmcat149900050025.c?id=pcmcat149900050025
+
+https://www.youtube.com/c/BraxMe/featured
 
 
+Healing Technology
+Aquacure Hydrogen Generator
+https://www.myaquacure.com/product/aquacure-ac50-complete-kit/
+https://aquacure-hho-inhalers.com/product/aquacure-ac50/
+
+https://www.ewot.com/pages/ewot-system
+https://medicalo2.com/
+https://www.oxyhealth.com/vitaeris-320.html
+
+https://www.ebay.com/itm/325037672508
+https://www.ewot.com/pages/ewot-system
+https://www.ewot.com/collections/maxx-o2-systems
+
+https://hydrogen4health.ca/product/h2pro300-99-99-pure-hydrogen-breathing-machine-w-bg/
+https://www.nbhyperbarics.com/vitaeris320/
+https://ewotenergy.com/collections/our-products
+https://www.oxyhealth.eu/everything-you-need-to-know-about-the-vitaeris-320-hyperbaric-chamber/
 
 
+https://www.altitude-training-extremeo2.com/contrast-training/contrast-training/
 
+https://www.livingstreamsmission.com/Magnesium-Oil--Flakes_c_8.html
+
+https://bulkperoxide.com/hydrogen-peroxide-and-epsom-salt/
+
+https://play.google.com/store/apps/details?id=com.manjul.bluetoothsdp&hl=en_US&gl=US
+
+
+https://liveo2.com/ewot/
+
+https://www.betterthangreens.com/hydrogen-peroxide
+https://www.thehealthyhomeeconomist.com/hydrogen-peroxide-bath-for-healing-skin-infections/
+
+https://www.thepowermall.com/Living-Streams-Mission_bymfg_118-0-1.html
+https://www.thepowermall.com/Living-Streams-Multi-Blend-Liquid-Probiotic-4-oz_p_2009.html
+
+https://www.livingstreamsmission.com/
+https://www.puretyclinic.com/blog/safe-oral-and-iv-chelation-heavy-metal-detoxification
+https://www.yourhealth-simplified.com/supplements/probiotics/
+https://govbanknotes.wordpress.com/2016/09/09/eins-for-the-united-states-inc-and-child-corporations/
+
+https://appuals.com/how-to-restore-windows-10-administrative-tools-shortcuts/
+https://bessodenatura.com/supplements2health/yselenium.html
 
 -->
